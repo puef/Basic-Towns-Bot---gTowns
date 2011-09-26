@@ -14,9 +14,9 @@ TOWNPOSTCODE = '81001000'
 PORT = 443
 
 class gBotUser():
-    def __init__(self, username, password):
-        self.username = username
-        self.password = password
+    def __init__(self, kennywont,k200103632):
+        self.username = kennywont
+        self.password = k200103632
         self.sid = None
         self.userid = None
         self.shortavi = None
